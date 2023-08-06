@@ -1,0 +1,13 @@
+Import the SQL file to you phpmyadmin dashboard
+set the connections db credentials in _db.php
+keep the directories inside the localhost directory so that APIs can be browsed from browser
+
+
+Note :-- The applicaiton is not completed with all its modules 2 modules are left one to rent car and one the view rented cars.
+
+This is only demonstrate my way to approach for a system.
+
+Used techs -HTML/ CSS/ JS  -- (tailwind CSS)
+Core PHP and MYSQL
+
+extra techs that I can use to create - ReactJS for frontend
